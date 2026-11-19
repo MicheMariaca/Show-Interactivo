@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lanzamiento.unity
     guid: 5b2777008daa32b43a8e1132c4aeb31f
+  - enabled: 1
+    path: Assets/Scenes/CinematicaCaptura.unity
+    guid: 4577ac5f8139c3843a2a65bad8ab4ffb
+  - enabled: 1
+    path: Assets/Scenes/Minijuego2.unity
+    guid: e5f7b3f489f7f9c45ae666687c8d2eb8
   - enabled: 0
     path: Assets/Scenes/Salida.unity
     guid: c24f989fb7a24864083f72623d10a8c9

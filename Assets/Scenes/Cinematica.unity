@@ -291,8 +291,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   videos:
+  - {fileID: 32900000, guid: c0cbfbeacc0678f49810dfec7d612317, type: 3}
   - {fileID: 32900000, guid: 7612c82316dfb994a89a2e2cc3bb0dbc, type: 3}
-  - {fileID: 32900000, guid: 9bbb9164ba01aca4aa4d88ecb774f0c9, type: 3}
   nextScene: Lanzamiento
 --- !u!328 &2002863913
 VideoPlayer:
@@ -302,7 +302,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2002863911}
   m_Enabled: 1
-  m_VideoClip: {fileID: 0}
+  m_VideoClip: {fileID: 32900000, guid: c0cbfbeacc0678f49810dfec7d612317, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 1616720622}
